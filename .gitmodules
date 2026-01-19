@@ -1,0 +1,6 @@
+[submodule "affinetes"]
+	path = affinetes
+	url = https://github.com/AffineFoundation/affinetes.git
+[submodule "templar-tournament"]
+	path = templar-tournament
+	url = git@github.com:one-covenant/templar-tournament.git
